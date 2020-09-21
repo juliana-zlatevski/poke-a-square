@@ -3,18 +3,21 @@
 }
 
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: Montserrat;
   padding: 0;
   margin: 0;
+  background: #333;
+  color: #efefef;
 }
 
 h1 {
   padding: 0;
   margin: 0 0 15px;
+  font-weight: 100;
 }
 
 header {
-  background-color: pink;
+  background-color:#222;
   padding: 20px;
   margin-bottom: 15px;
 }
@@ -29,10 +32,10 @@ button {
 }
 
 .squares div {
-  background-color: blue;
+  background-color: #39CCCC;
   display: inline-block;
   width:  7vh;
   height: 7vh;
   padding: 0;
-  margin-right: 1%;
+  margin: 1%;
 }
